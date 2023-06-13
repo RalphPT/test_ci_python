@@ -1,0 +1,3 @@
+# Así se comenta en el archivo gitignore
+entorno_flask_jwt
+.env
